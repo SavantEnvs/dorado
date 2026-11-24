@@ -1,0 +1,1 @@
+error: alias barcode01 is a forbidden alias

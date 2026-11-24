@@ -1,0 +1,4 @@
+flow_cell_id,kit,experiment_id,barcode,alias,type
+FAX12345,SQK-RBK114-96,,barcode07,sampleA,test_sample
+FAX12345,SQK-RBK114-96,,barcode12,sampleB,positive_control
+FAX12345,SQK-RBK114-96,,barcode03,sampleC,no_template_control

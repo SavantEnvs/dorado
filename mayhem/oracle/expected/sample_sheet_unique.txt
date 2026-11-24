@@ -1,0 +1,4 @@
+type=barcode
+barcode barcode03 permitted=1 alias=<not-unique> fc_alias= type=
+barcode barcode07 permitted=1 alias=<not-unique> fc_alias= type=
+barcode barcode12 permitted=1 alias=<not-unique> fc_alias= type=

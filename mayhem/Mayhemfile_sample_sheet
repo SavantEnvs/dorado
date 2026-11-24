@@ -1,0 +1,11 @@
+project: savantenvs/dorado
+target: sample_sheet
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/sample_sheet/testsuite
+
+cmds:
+  - cmd: /mayhem/fuzz_sample_sheet
+    libfuzzer: true
+    timeout: 5

@@ -1,0 +1,4 @@
+name=test_kit_single_ended kit=BC double_ends=0 ends_different=0 rear_only=0
+flanks=C|GTTTTCGCATTTATCGTGAAACGCTTTCGCGTTTTTCGTGCGCCGCTTCA||
+barcodes=BC01,BC02,BC03,BC04
+barcodes2=

@@ -1,0 +1,11 @@
+project: savantenvs/dorado
+target: poly_tail
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/poly_tail/testsuite
+
+cmds:
+  - cmd: /mayhem/fuzz_poly_tail
+    libfuzzer: true
+    timeout: 5

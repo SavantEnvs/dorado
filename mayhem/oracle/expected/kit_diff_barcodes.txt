@@ -1,0 +1,4 @@
+name=test_kit_ends_different_barcodes kit=BC double_ends=1 ends_different=1 rear_only=0
+flanks=C|G|C|G
+barcodes=BCA01,BCA02,BCA03,BCA04,BCA05,BCA06,BCA07,BCA08,BCA09,BCA10,BCA11,BCA12
+barcodes2=BCB01,BCB02,BCB03,BCB04,BCB05,BCB06,BCB07,BCB08,BCB09,BCB10,BCB11,BCB12

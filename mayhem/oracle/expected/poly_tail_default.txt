@@ -1,0 +1,1 @@
+bc= enabled=1 plasmid=0 front=CCCCCCCCCCCCCCCCCCCCCCC rear=GGGGGGGGGGGGGGGGGGGGGGGG rc_front=GGGGGGGGGGGGGGGGGGGGGGG pf= pr= interrupt=0 min_base=10 window=150

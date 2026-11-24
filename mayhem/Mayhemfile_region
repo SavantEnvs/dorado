@@ -1,0 +1,11 @@
+project: savantenvs/dorado
+target: region
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/region/testsuite
+
+cmds:
+  - cmd: /mayhem/fuzz_region
+    libfuzzer: true
+    timeout: 5

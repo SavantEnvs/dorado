@@ -1,0 +1,8 @@
+hac -> variant mods=0
+sup,5mCG_5hmCG -> variant mods=1
+fast@v4.2.0 -> variant mods=0
+hac@v5.0.0,6mA -> variant mods=1
+dna_r10.4.1_e8.2_400bps_hac@v5.0.0 -> named simplex=dna_r10.4.1_e8.2_400bps_hac@v5.0.0 mods=
+dna_r10.4.1_e8.2_400bps_sup@v5.0.0,dna_r10.4.1_e8.2_400bps_sup@v5.0.0_5mCG_5hmCG@v2 -> error: Invalid model argument
+hac,bogusmod -> error: Failed to parse modified model arguments
+some/model/dir -> path

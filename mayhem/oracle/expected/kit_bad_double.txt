@@ -1,0 +1,1 @@
+error: first_index must be <= last_index in the arrangement file.

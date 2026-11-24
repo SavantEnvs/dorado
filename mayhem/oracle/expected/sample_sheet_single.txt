@@ -1,0 +1,9 @@
+type=barcode
+barcode barcode01 permitted=1 alias=<not-unique> fc_alias=patient_id_5 type=test_sample
+barcode barcode02 permitted=1 alias=<not-unique> fc_alias=patient_id_6 type=test_sample
+barcode barcode03 permitted=1 alias=<not-unique> fc_alias=patient_id_7 type=test_sample
+barcode barcode04 permitted=1 alias=<not-unique> fc_alias=patient_id_8 type=test_sample
+barcode barcode05 permitted=1 alias=<not-unique> fc_alias=patient_id_1 type=test_sample
+barcode barcode06 permitted=1 alias=<not-unique> fc_alias=patient_id_2 type=test_sample
+barcode barcode07 permitted=1 alias=<not-unique> fc_alias=patient_id_3 type=test_sample
+barcode barcode08 permitted=1 alias=<not-unique> fc_alias=patient_id_4 type=test_sample

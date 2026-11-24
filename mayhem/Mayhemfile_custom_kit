@@ -1,0 +1,11 @@
+project: savantenvs/dorado
+target: custom_kit
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/custom_kit/testsuite
+
+cmds:
+  - cmd: /mayhem/fuzz_custom_kit
+    libfuzzer: true
+    timeout: 5

@@ -1,0 +1,1 @@
+error: At least one of mask1_front or mask1_rear needs to be specified.

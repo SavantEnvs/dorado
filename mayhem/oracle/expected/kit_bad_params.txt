@@ -1,0 +1,1 @@
+error: For double ended barcodes, mask2_front mask2_rear and barcode2_pattern must all be set.
